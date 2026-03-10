@@ -8,3 +8,6 @@ fibonacci(10)
 
 def calculate(x):
     return x * 2
+
+def calculate(x):
+    return x + 100
